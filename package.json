@@ -1,7 +1,7 @@
 {
   "name": "ccheckpoint",
   "description": "Checkpoint CLI tool for Claude Code - provides Cursor-like checkpoint functionality",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "ZyraX <oscarcoll.930714@gmail.com>",
   "main": "dist/index.js",
   "bin": {
